@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-start-7a069": {
+      "hosting": {
+        "FireBase": [
+          "fir-start-7a069"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-start-7a069"
+  }
+}
